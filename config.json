@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorspdate",
+        "uuid": 778707,
+        "checksum": "jbrdc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
